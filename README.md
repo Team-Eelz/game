@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/Team-Eelz/game)](https://repl.it/github/Team-Eelz/game)
+
 <p align="center">
   <img src="https://github.com/Delaford/game/raw/master/src/assets/github/logo.png"/>
 </p>
